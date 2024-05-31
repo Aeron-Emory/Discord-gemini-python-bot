@@ -1,3 +1,6 @@
+# Try this Bot
+[![Static Badge](https://img.shields.io/badge/Replit-Try%20Here-orange?style=flat&logo=replit)](https://replit.com/@AeronEmory/Discord-gemini-python-bot)
+
 # A Discord Python Bot that interacts with Gemini API
 
 "Python: Gemini Discord Bot" is a simple application that shows you how to interact with Google's Gemini APIs using pycord.
