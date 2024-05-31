@@ -1,6 +1,6 @@
-# Simple application to interact with Gemini API
+# A Discord Python Bot that interacts with Gemini API
 
-"Python: Gemini API" is a simple sample application that shows you how to interact with Google's Gemini APIs .
+"Python: Gemini Discord Bot" is a simple application that shows you how to interact with Google's Gemini APIs using pycord.
 
 ## Table of Contents
 
@@ -10,8 +10,8 @@
 * [Sign up for user research](#sign-up-for-user-research)
 
 ## Directory contents
-* `main.py` - the Python sample application that asks Gemini API to generate content based on a prompt
-* `requirements.txt` - includes the google generative ai dependency
+* `main.py` - the Python application sends last 15 discord messages as prompt to Gemini API to generate content based on a prompt and send it back to the channel the bot's name as called
+* `requirements.txt` - includes the google generative ai dependency and pycord
 
 ## Setting up the API Key
 Before you can use the Gemini API, you must first obtain an API key. If you don't already have one, create a key with one click in Google AI Studio.
@@ -31,4 +31,6 @@ Check if Google AI Studio is available in [your region](https://ai.google.dev/av
 ## Documentation 
 1. You can see detailed API Reference for the Gemini APIs [here](https://googledevai.google.com/api) 
 
-1. You can see more samples and things to do [here](https://googledevai.google.com/tutorials/python_quickstart) 
+1. You can see more samples and things to do [here](https://googledevai.google.com/tutorials/python_quickstart)
+
+1. You can see detailed Documentation for Pycord here [here](https://docs.pycord.dev/en/stable/)
