@@ -1,4 +1,4 @@
-## Try this Bot
+## Try this Bot out
 [![Static Badge](https://img.shields.io/badge/Replit-Try%20Here-orange?style=for-the-badge&logo=replit)
 ](https://replit.com/@AeronEmory/Discord-gemini-python-bot)
 
