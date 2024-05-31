@@ -33,7 +33,7 @@ Check if Google AI Studio is available in [your region](https://ai.google.dev/av
 ```python main.py```
 
 ## Documentation 
-1. You can see detailed API Reference for the Gemini APIs [here](https://googledevai.google.com/api) 
+1. You can see detailed API Reference for the Gemini APIs [here](https://ai.google.dev/gemini-api/docs) 
 
 1. You can see more samples and things to do [here](https://googledevai.google.com/tutorials/python_quickstart)
 
